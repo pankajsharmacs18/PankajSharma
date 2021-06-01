@@ -2,8 +2,8 @@
 
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=pankajsharmacs18&color=Pink)&nbsp;
+![version :25.03.2021](https://img.shields.io/badge/version-01.06.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=pankajsharmacs18&color=red)&nbsp;
 [![GitHub pankajsharmacs18](https://img.shields.io/github/followers/pankajsharmacs18?label=follow&style=social)](https://github.com/pankajsharmacs18)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
