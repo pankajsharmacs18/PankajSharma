@@ -1,4 +1,4 @@
-jhfkht![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+![BannerGIF](#)
 
 
 ### <img alt="handwavegif" src="#" width='40' align="left"/> Hello there !
